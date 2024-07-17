@@ -8,8 +8,8 @@ This document will be used as the lore for the world that is free for the player
 
 ## Links
 
-[Sessions]()
+[Sessions](https://github.com/LeftyF2P/Terra/tree/main/Sessions)
 
-[Lore]()
+[Lore](https://github.com/LeftyF2P/Terra/tree/main/Lore)
 
-[Maps]()
+[Maps](https://github.com/LeftyF2P/Terra/tree/main/Maps)
